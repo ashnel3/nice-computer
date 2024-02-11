@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="">Download</a> &bull;
-  <a href="">About</a> &bull;
-  <a href="">Usage</a>
+  <a href="https://github.com/ashnel3/nice-computer/releases/latest/download/NiceComputer.7z">Download</a> &bull;
+  <a href="#About">About</a> &bull;
+  <a href="#Usage">Usage</a>
 </p>
 
 
