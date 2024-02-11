@@ -1,0 +1,14 @@
+* text=auto
+
+# Document
+*.txt         text 
+*.md          text
+
+# Source
+*.ahk         text eol=crlf
+
+# Media
+*.ico         binary
+*.jpeg        binary
+*.jpg         binary
+*.mp4         binary
